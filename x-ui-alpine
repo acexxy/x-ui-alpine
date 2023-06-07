@@ -46,7 +46,7 @@ echo -e "
   ${green}0.${plain} 退出脚本
   ${green}1.${plain} 安装 x-ui vaxilu（原版）
   ${green}2.${plain} 安装 x-ui MHSanaei（伊朗版,暂时无效！）
-  ${green}3.${plain} 安装 x-ui yg ）"
+  ${green}3.${plain} 安装 x-ui yg"
 }
 show_menu
 echo && read -p "默认原版，请输入选择 [0-3]: " num
